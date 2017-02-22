@@ -1,3 +1,8 @@
+This was a back-end project using nodeJS (express) and mongoDB (mongoose).
+The project was done by me and 4 classmates in school.
+
+This is the orginal repository "https://github.com/webcrunch/bilverkstad"
+
 # Bilverkstad
 
 Skoluppgift i grupp med fokus på backend.
