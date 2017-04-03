@@ -3,7 +3,17 @@ The project was done in collaboration with 4 classmates in school.
 
 This is the orginal repository "https://github.com/webcrunch/bilverkstad"
 
-# Bilverkstad
+# Start the project
+
+- Node JS and MongoDB should be already installed in your computer. If it's not, install Node JS and MongoDB.
+- Run your mongo database (you can do it through your terminal and run "mongod" without the double quotes).
+- Download or clone the repository in your computer.
+- Open your terminal and go to the directory where you have downloaded the project.
+- Run npm install
+- After all modules are installed, you are able to run "node app" in the same directory through the terminal as well.
+- Now you can open your browser and go to localhost:3000 
+
+# Bilverkstad (This is the original readme)
 
 Skoluppgift i grupp med fokus på backend.
 
