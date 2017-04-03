@@ -11,7 +11,8 @@ This is the orginal repository "https://github.com/webcrunch/bilverkstad"
 - Open your terminal and go to the directory where you have downloaded the project.
 - Run npm install
 - After all modules are installed, you are able to run "node app" in the same directory through the terminal as well.
-- Now you can open your browser and go to localhost:3000 
+- Depending on if you want to use an already done dummy database, you can import the mongoDB database ("bilverkstadDB (mongodb)" directory) or the SQL database ("bilverkstadDB (Mysql)" directory) in your database system.
+- Now you can open your browser and go to localhost:3000
 
 # Bilverkstad (This is the original readme)
 
