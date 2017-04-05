@@ -5,14 +5,14 @@ This is the orginal repository "https://github.com/webcrunch/bilverkstad"
 
 # Start the project
 
-- Node JS and MongoDB should be already installed in your computer. If it's not, install Node JS and MongoDB.
+- Node JS, MongoDB and some API tester as Postman Chrome APP, should be already installed in your computer. If it's not, install them.
 - Run your mongo database (you can do it through your terminal and run "mongod" without the double quotes).
 - Download or clone the repository in your computer.
 - Open your terminal and go to the directory where you have downloaded the project.
 - Run npm install
 - After all modules are installed, you are able to run "node app" in the same directory through the terminal as well.
 - Depending on if you want to use an already done dummy database, you can import the mongoDB database ("bilverkstadDB (mongodb)" directory) or the SQL database ("bilverkstadDB (Mysql)" directory) in your database system.
-- Now you can open your browser and go to localhost:3000
+- Now you can test the API through e.g. Postman.
 
 # Bilverkstad (This is the original readme)
 
